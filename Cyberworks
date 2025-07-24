@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Cyber Safety by Ime</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      background-color: #121212;
+      color: #eee;
+      padding: 30px;
+      text-align: center;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      color: #00ffd1;
+    }
+
+    p {
+      font-size: 1.2em;
+      margin: 20px 0;
+      line-height: 1.6;
+    }
+
+    .contact {
+      margin-top: 30px;
+      background-color: #222;
+      padding: 15px;
+      border-radius: 10px;
+      display: inline-block;
+    }
+
+    .tagline {
+      font-style: italic;
+      color: #aaa;
+    }
+
+    a {
+      color: #00ffd1;
+      text-decoration: none;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>Welcome to Cyber Safety by Ime 👨🏽‍💻</h1>
+  <p class="tagline">Building a safer, freer online space for everyone.</p>
+
+  <p>Hi, I’m Ime, a 17-year-old Cybersecurity Analyst from UniAbuja.<br>
+     My mission is to protect people online by preventing fraud, system hacking, and digital threats.<br>
+     I believe every person deserves a safe space to learn, share, and connect without fear.</p>
+
+  <div class="contact">
+    <p><strong>Contact:</strong> 0812 933 2921</p>
+    <p><strong>Email:</strong> imesuccess861@gmail.com</p>
+    <p><strong>Institution:</strong> University of Abuja, Nigeria</p>
+  </div>
+
+  <p>Want to learn more about cybersecurity or collaborate on a project? Stay tuned — my blog and resource center are launching soon 🔐</p>
+
+</body>
+</html>
